@@ -1,1 +1,1 @@
-﻿Archivo de text del ejercicio Git
+﻿Archivo de text del ejercicio Git cambiandolo en el master
