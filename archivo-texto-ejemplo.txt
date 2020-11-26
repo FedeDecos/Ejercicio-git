@@ -1,1 +1,2 @@
-﻿Archivo de text del ejercicio Git cambiandolo en el master
+Archivo de text del ejercicio Git cambiandolo en el master
+Archivo de text del ejercicio Git desde la rama branch1
